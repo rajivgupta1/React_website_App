@@ -1,11 +1,11 @@
 // import { Routes, Redirect } from 'react-router-dom';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import '../node_modules/bootstrap/dist/js/bootstrap.bundle';
-import  Home from './components/Home';
+import  Home from './components/Home/Home';
 import React from 'react'
 import Contact from './components/Contact';
 import Services from './components/Services';
-import About from './components/About';
+import About from './components/About/About';
 import Navbar from './components/Navbar/Navbar';
 // import { Route, Routes } from "react-router-dom";
 
